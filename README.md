@@ -184,6 +184,24 @@ currently_building:
         <img src="https://img.shields.io/github/forks/griffin-dox/Threat-Intelligence?style=flat-square&color=00FF41"/>
       </p>
     </td>
+    <tr>
+    <td width="50%">
+      <h3 align="center">🕵️ DeceptIQ</h3>
+      <p align="center">
+        <a href="https://github.com/griffin-dox/DeceptIQ">
+          <img src="https://img.shields.io/badge/VIEW_REPO-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        <!-- Update this description once you'd like something more specific -->
+        AI-powered <b>deception detection</b> and analysis tool. Leverages machine learning to identify deceptive patterns and provide intelligent insights.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/github/stars/griffin-dox/DeceptIQ?style=flat-square&color=FFD700"/>
+        <img src="https://img.shields.io/github/forks/griffin-dox/DeceptIQ?style=flat-square&color=00FF41"/>
+      </p>
+    </td>
     <td width="50%">
       <h3 align="center">🔐 Stegacrypt</h3>
       <p align="center">
