@@ -183,6 +183,27 @@ currently_building:
         <img src="https://img.shields.io/github/stars/griffin-dox/Threat-Intelligence?style=flat-square&color=FFD700"/>
         <img src="https://img.shields.io/github/forks/griffin-dox/Threat-Intelligence?style=flat-square&color=00FF41"/>
       </p>
+    <td width="50%">
+      <h3 align="center">🛡️ VNC Security & Data Exfiltration Detection</h3>
+      <p align="center">
+        <a href="https://github.com/griffin-dox/VNC-Security-Data-Exfiltration-Detection-System">
+          <img src="https://img.shields.io/badge/VIEW_REPO-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/🏆_SIH_2025_WINNER-FFD700?style=for-the-badge&logoColor=black"/>
+        </a>
+      </p>
+      <p align="center">
+        Multi-layer cybersecurity platform detecting <b>VNC-based data exfiltration attacks</b> using Zeek, Suricata & Wazuh. Features <b>AI-powered SOC assistance</b> (Gemini LLM), WireGuard VPN access control, and forensic evidence collection via MinIO.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Gemini_LLM-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+        <img src="https://img.shields.io/github/stars/griffin-dox/VNC-Security-Data-Exfiltration-Detection-System?style=flat-square&color=FFD700"/>
+        <img src="https://img.shields.io/github/forks/griffin-dox/VNC-Security-Data-Exfiltration-Detection-System?style=flat-square&color=00FF41"/>
+      </p>
     </td>
     <tr>
     <td width="50%">
